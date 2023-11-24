@@ -1,2 +1,1 @@
-# coding-project-template
-This repo is for the practice project which is to be based on Embedded AI libraries. 
+This is a project made for the Python course in the IBM Full Stack Developer Professional Certificate.
